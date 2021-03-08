@@ -15,39 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I'm currently a student in France.
-- 🔭 I’m currently working on somes projects at school
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on somes indies projects
+- 🔭 I’m currently working on somes projects at school and somes with my friends.
+- 🌱 I’m currently learning Python & C++.
+- 👯 I’m looking to collaborate on somes indies projects.
 <br>
 
 ### 📫 How to reach me: 
-[<img align="left" alt="Cobbrou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Cobbrou | Twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/twitter/twitter-original.svg" />][twitter]
 
 <br>
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" />
-<img align="left" alt="C#" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/node-dot-js.svg" />
-<img align="left" alt="Lua" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/lua.svg" />
-<img align="left" alt="Git" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Jetbrains Tools" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/jetbrains/jetbrains-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<br>
-<details>
-  <summary>:zap: Github Stats</summary>
+<br />
+<br />
+<br />
 
-  <img align="left" alt="Cobbrou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Cobbrou&show_icons=true&hide_border=true" />
-
-</details>
+![Main stats](https://github-readme-stats.vercel.app/api?username=Cobbrou&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cobbrou&layout=compact&langs_count=7&theme=radical)](https://github.com/Cobbrou)
 
 [website]: https://cobbrou.github.io
 [twitter]: https://twitter.com/cobbrou
-[youtube]: https://youtube.com/cobbrou
