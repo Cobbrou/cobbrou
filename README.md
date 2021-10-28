@@ -1,19 +1,5 @@
 ### Hi there 👋, it's Cobbrou or Tom :) [My Website][website]
 
-<!--
-**Cobbrou/cobbrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on somes projects at school
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on somes indies projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## I'm currently a student in France.
 - 🔭 I’m currently working on somes projects at school and somes with my friends.
 - 🌱 I’m currently learning Python & C++.
@@ -22,7 +8,7 @@ Here are some ideas to get you started:
 
 ## Projects:
 - [Schoolmouv Scrapper](https://github.com/suiramdev/schoolmouv_scrapper), A python bot to download Schoolmouv lessons, bypassing the premium restriction.
-- [Stock Manager](https://github.com/Cobbrou/stockManager), An python script to manage a stock shop
+- [Stock Manager](https://github.com/Cobbrou/stockManager), An python script to manage a stock shop 
 
 ## How to reach me: 
 [<img align="left" alt="Cobbrou | Twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/twitter/twitter-original.svg" />][twitter]
